@@ -1,3 +1,5 @@
+**This course will be retired on 2026-7-31. Once course is retired, all GitHub repos will be removed. Thank you!**
+
 # PL-200 Power Platform Functional Consultant
 
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
